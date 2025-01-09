@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm 21 year a BCA student<br>Currently working on Front End Development<br>I'm looking for opportunities to prove myself<br>Fun fact - I am lazy but smart<br> <br>
+I'm 20 year a BCA student<br>Currently working on Front End Development<br>I'm looking for opportunities to prove myself<br>Fun fact - I am lazy but smart<br> <br>
 
 
 ## 🌐 Socials:
